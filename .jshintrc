@@ -1,0 +1,24 @@
+{ "strict": true
+, "node": true
+, "globals":
+  { "chai": true
+  , "describe": false
+  , "context": false
+  , "it": false
+  , "beforeEach": false
+  , "afterEach": false
+  }
+
+, "indent": 2
+, "laxcomma": true
+, "laxbreak": true
+, "asi": true
+, "onevar": false
+
+, "eqeqeq": true
+, "immed": true
+, "undef": true
+, "unused": true
+, "latedef": true
+, "trailing": true
+ }
